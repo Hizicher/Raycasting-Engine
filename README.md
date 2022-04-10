@@ -1,5 +1,7 @@
 # datintro
 
-This is your first repo! We made it for you to help yo get started. Feel free to use it for the rest of the computer introduction tasks. 
+This is your first repo, we made it for you. You can create repos on your own, 
+*however, during the Git-related assignments, you must work in this repo, 
+otherwise the grading scripts cannot find your work!*
 
 Good luck!
