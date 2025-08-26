@@ -5,3 +5,5 @@ This is your first repo, we made it for you. You can create repos on your own,
 otherwise the grading scripts cannot find your work!*
 
 Good luck!
+
+New line in README
