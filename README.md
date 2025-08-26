@@ -6,4 +6,4 @@ otherwise the grading scripts cannot find your work!*
 
 Good luck!
 
-New line in README
+New line in README.md
